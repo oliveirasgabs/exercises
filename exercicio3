@@ -1,0 +1,12 @@
+<html>
+    <head><title>TagDIV</title></head>
+    <body bgcolor = "#BAB7C1">
+        <DIV align="center">
+            <font size = "12" color = "#000000" face = "Trebuchet MS">
+                <p><sub>Seja criativo!</sub></p>
+                <p><sup>Treine bastante!</sup></p>
+                <p><s>Se esforce!</s></p>
+            </font>
+        </DIV>
+    </body>
+</html>
